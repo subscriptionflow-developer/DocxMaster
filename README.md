@@ -1,4 +1,4 @@
-# ![DocxMaster](https://rawgit.com/PHPOffice/PHPWord/develop/docs/images/phpword.svg "DocxMaster")
+# ![DocxMaster]("DocxMaster")
 
 
 DocxMaster(PHPWord) is a library written in pure PHP that provides a set of classes to write to and read from different document file formats. The current version of PHPWord supports Microsoft [Office Open XML](http://en.wikipedia.org/wiki/Office_Open_XML) (OOXML or OpenXML), OASIS [Open Document Format for Office Applications](http://en.wikipedia.org/wiki/OpenDocument) (OpenDocument or ODF), [Rich Text Format](http://en.wikipedia.org/wiki/Rich_Text_Format) (RTF), HTML, and PDF.
